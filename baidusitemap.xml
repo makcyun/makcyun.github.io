@@ -64,26 +64,6 @@
 
     
   <url>
-    <loc>https://www.makcyun.top/2019/05/12/Machine_learning05.html</loc>
-    <lastmod>2019-05-19T10:11:45.338Z</lastmod>
-    <data>
-        <display>
-        <title>线性回归 Statsmodels 模型预测波士顿房价</title>
-        <pubTime>2019-05-12T08:16:16.000Z</pubTime>
-        
-        <tag>机器学习</tag>
-         
-         
-           
-             
-              <breadCrumb title="机器学习" url="https://www.makcyun.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://www.makcyun.top/2019/03/16/weekly_sharing20.html</loc>
     <lastmod>2019-05-19T10:10:52.432Z</lastmod>
     <data>
@@ -1403,6 +1383,28 @@
 
     
   <url>
+    <loc>https://www.makcyun.top/2018/09/08/fuli01.html</loc>
+    <lastmod>2018-12-19T03:12:32.968Z</lastmod>
+    <data>
+        <display>
+        <title>每周分享第 1 期：关于 PDF 阅读处理软件，你需要的都在这里了</title>
+        <pubTime>2018-09-08T12:16:37.349Z</pubTime>
+        
+        <tag>pdf</tag>
+         
+        <tag>佳软</tag>
+         
+         
+           
+             
+              <breadCrumb title="python爬虫" url="https://www.makcyun.top/categories/python%E7%88%AC%E8%99%AB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.makcyun.top/2018/10/26/weekly_sharing2.html</loc>
     <lastmod>2018-12-19T03:12:32.968Z</lastmod>
     <data>
@@ -1420,28 +1422,6 @@
            
              
               <breadCrumb title="每周分享" url="https://www.makcyun.top/categories/%E6%AF%8F%E5%91%A8%E5%88%86%E4%BA%AB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.makcyun.top/2018/09/08/fuli01.html</loc>
-    <lastmod>2018-12-19T03:12:32.968Z</lastmod>
-    <data>
-        <display>
-        <title>每周分享第 1 期：关于 PDF 阅读处理软件，你需要的都在这里了</title>
-        <pubTime>2018-09-08T12:16:37.349Z</pubTime>
-        
-        <tag>pdf</tag>
-         
-        <tag>佳软</tag>
-         
-         
-           
-             
-              <breadCrumb title="python爬虫" url="https://www.makcyun.top/categories/python%E7%88%AC%E8%99%AB/"/>
           
         </display>
     </data>
@@ -1598,8 +1578,6 @@
         <title>Python爬虫(1):多种方法爬取猫眼top100电影</title>
         <pubTime>2018-08-20T11:18:14.973Z</pubTime>
         
-        <tag>Python爬虫</tag>
-         
         <tag>requests</tag>
          
         <tag>正则表达式</tag>
@@ -1611,6 +1589,8 @@
         <tag>xpath</tag>
          
         <tag>lxml</tag>
+         
+        <tag>Python爬虫</tag>
          
          
            
