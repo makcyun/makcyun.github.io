@@ -4,11 +4,51 @@
 
     
   <url>
-    <loc>https://www.makcyun.top/2019/06/05/Machine_learning04.html</loc>
-    <lastmod>2019-06-05T08:26:34.654Z</lastmod>
+    <loc>https://www.makcyun.top/2019/06/06/life13.html</loc>
+    <lastmod>2019-06-09T13:29:16.715Z</lastmod>
     <data>
         <display>
-        <title>【机器学习02】Python 手写 sklearn kNN 封装算法</title>
+        <title>2019 年 5 月香港之旅：长洲、坪洲、石澳</title>
+        <pubTime>2019-06-06T10:16:24.000Z</pubTime>
+        
+        <tag>生活随笔</tag>
+         
+         
+           
+             
+              <breadCrumb title="生活随笔" url="https://www.makcyun.top/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.makcyun.top/2019/06/02/Machine_learning03.html</loc>
+    <lastmod>2019-06-07T01:05:25.534Z</lastmod>
+    <data>
+        <display>
+        <title>【机器学习01】Python 手写 kNN 算法</title>
+        <pubTime>2019-06-02T08:16:16.000Z</pubTime>
+        
+        <tag>机器学习</tag>
+         
+         
+           
+             
+              <breadCrumb title="机器学习" url="https://www.makcyun.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.makcyun.top/2019/06/05/Machine_learning04.html</loc>
+    <lastmod>2019-06-06T23:28:21.842Z</lastmod>
+    <data>
+        <display>
+        <title>【机器学习02】sklearn 中的 kNN 封装算法实现</title>
         <pubTime>2019-06-05T08:16:16.000Z</pubTime>
         
         <tag>机器学习</tag>
@@ -37,26 +77,6 @@
            
              
               <breadCrumb title="生活随笔" url="https://www.makcyun.top/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.makcyun.top/2019/06/02/Machine_learning03.html</loc>
-    <lastmod>2019-06-04T11:12:03.607Z</lastmod>
-    <data>
-        <display>
-        <title>【机器学习01】kNN 算法基础</title>
-        <pubTime>2019-06-02T08:16:16.000Z</pubTime>
-        
-        <tag>机器学习</tag>
-         
-         
-           
-             
-              <breadCrumb title="机器学习" url="https://www.makcyun.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
           
         </display>
     </data>
@@ -1423,28 +1443,6 @@
 
     
   <url>
-    <loc>https://www.makcyun.top/2018/09/08/fuli01.html</loc>
-    <lastmod>2018-12-19T03:12:32.968Z</lastmod>
-    <data>
-        <display>
-        <title>每周分享第 1 期：关于 PDF 阅读处理软件，你需要的都在这里了</title>
-        <pubTime>2018-09-08T12:16:37.349Z</pubTime>
-        
-        <tag>pdf</tag>
-         
-        <tag>佳软</tag>
-         
-         
-           
-             
-              <breadCrumb title="python爬虫" url="https://www.makcyun.top/categories/python%E7%88%AC%E8%99%AB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://www.makcyun.top/2018/10/26/weekly_sharing2.html</loc>
     <lastmod>2018-12-19T03:12:32.968Z</lastmod>
     <data>
@@ -1462,6 +1460,28 @@
            
              
               <breadCrumb title="每周分享" url="https://www.makcyun.top/categories/%E6%AF%8F%E5%91%A8%E5%88%86%E4%BA%AB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.makcyun.top/2018/09/08/fuli01.html</loc>
+    <lastmod>2018-12-19T03:12:32.968Z</lastmod>
+    <data>
+        <display>
+        <title>每周分享第 1 期：关于 PDF 阅读处理软件，你需要的都在这里了</title>
+        <pubTime>2018-09-08T12:16:37.349Z</pubTime>
+        
+        <tag>pdf</tag>
+         
+        <tag>佳软</tag>
+         
+         
+           
+             
+              <breadCrumb title="python爬虫" url="https://www.makcyun.top/categories/python%E7%88%AC%E8%99%AB/"/>
           
         </display>
     </data>
