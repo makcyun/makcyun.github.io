@@ -4,8 +4,28 @@
 
     
   <url>
+    <loc>https://www.makcyun.top/2019/06/23/Machine_learning12.html</loc>
+    <lastmod>2019-06-24T02:42:41.825Z</lastmod>
+    <data>
+        <display>
+        <title>【机器学习10】可能是关于 kNN 算法最详细的总结</title>
+        <pubTime>2019-06-23T08:16:16.000Z</pubTime>
+        
+        <tag>机器学习</tag>
+         
+         
+           
+             
+              <breadCrumb title="机器学习" url="https://www.makcyun.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.makcyun.top/2019/06/15/Machine_learning08.html</loc>
-    <lastmod>2019-06-21T09:47:16.589Z</lastmod>
+    <lastmod>2019-06-23T23:50:13.564Z</lastmod>
     <data>
         <display>
         <title>【机器学习06】kNN 模型的几个超参数： Algorithm、n_neighbors、明科夫斯基距离</title>
@@ -1583,28 +1603,6 @@
 
     
   <url>
-    <loc>https://www.makcyun.top/2018/09/08/fuli01.html</loc>
-    <lastmod>2018-12-19T03:12:32.968Z</lastmod>
-    <data>
-        <display>
-        <title>每周分享第 1 期：关于 PDF 阅读处理软件，你需要的都在这里了</title>
-        <pubTime>2018-09-08T12:16:37.349Z</pubTime>
-        
-        <tag>pdf</tag>
-         
-        <tag>佳软</tag>
-         
-         
-           
-             
-              <breadCrumb title="python爬虫" url="https://www.makcyun.top/categories/python%E7%88%AC%E8%99%AB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://www.makcyun.top/2018/10/26/weekly_sharing2.html</loc>
     <lastmod>2018-12-19T03:12:32.968Z</lastmod>
     <data>
@@ -1622,6 +1620,28 @@
            
              
               <breadCrumb title="每周分享" url="https://www.makcyun.top/categories/%E6%AF%8F%E5%91%A8%E5%88%86%E4%BA%AB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.makcyun.top/2018/09/08/fuli01.html</loc>
+    <lastmod>2018-12-19T03:12:32.968Z</lastmod>
+    <data>
+        <display>
+        <title>每周分享第 1 期：关于 PDF 阅读处理软件，你需要的都在这里了</title>
+        <pubTime>2018-09-08T12:16:37.349Z</pubTime>
+        
+        <tag>pdf</tag>
+         
+        <tag>佳软</tag>
+         
+         
+           
+             
+              <breadCrumb title="python爬虫" url="https://www.makcyun.top/categories/python%E7%88%AC%E8%99%AB/"/>
           
         </display>
     </data>
