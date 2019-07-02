@@ -4,6 +4,46 @@
 
     
   <url>
+    <loc>https://www.makcyun.top/2019/07/02/Python_visualization05.html</loc>
+    <lastmod>2019-07-02T09:15:16.867Z</lastmod>
+    <data>
+        <display>
+        <title>除了 Pyecharts，不妨尝尝 Uber 开发的这款高逼格地理空间可视化库</title>
+        <pubTime>2019-07-02T08:16:24.000Z</pubTime>
+        
+        <tag>WPython可视化</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python可视化" url="https://www.makcyun.top/categories/Python%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.makcyun.top/2019/06/17/Machine_learning09.html</loc>
+    <lastmod>2019-07-01T23:31:54.520Z</lastmod>
+    <data>
+        <display>
+        <title>【机器学习07】使用网格搜索（GridSearchCV）快速找到 kNN 模型最佳超参数</title>
+        <pubTime>2019-06-17T08:16:16.000Z</pubTime>
+        
+        <tag>机器学习</tag>
+         
+         
+           
+             
+              <breadCrumb title="机器学习" url="https://www.makcyun.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.makcyun.top/2019/06/30/life15.html</loc>
     <lastmod>2019-07-01T12:48:06.621Z</lastmod>
     <data>
@@ -130,26 +170,6 @@
         <display>
         <title>【机器学习06】kNN 模型的几个超参数： Algorithm、n_neighbors、明科夫斯基距离</title>
         <pubTime>2019-06-15T08:16:16.000Z</pubTime>
-        
-        <tag>机器学习</tag>
-         
-         
-           
-             
-              <breadCrumb title="机器学习" url="https://www.makcyun.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.makcyun.top/2019/06/17/Machine_learning09.html</loc>
-    <lastmod>2019-06-21T09:34:01.720Z</lastmod>
-    <data>
-        <display>
-        <title>【机器学习07】使用网格搜索（GridSearchCV）快速找到 kNN 模型最佳超参数</title>
-        <pubTime>2019-06-17T08:16:16.000Z</pubTime>
         
         <tag>机器学习</tag>
          
