@@ -61,10 +61,10 @@ feed:
   content: true
 deploy:
   type: git
-  repo:
+  repo: 
     github: git@github.com:makcyun/makcyun.github.io.git,master
     #coding: 'git@git.coding.net:makcyun/makcyun.git,master'
-  branch: master
+  #branch: master
 core:
   autocrlf: true
 

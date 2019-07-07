@@ -1,7 +1,7 @@
 ---
 title: 【机器学习12】线性回归算法评价指标：MSE、RMSE、R2_score
 id: Machine_learning14
-date: 2019-7-7 16:16:16
+date: 2019-7-7 17:16:16
 categories: 机器学习
 tags: [机器学习]
 images: http://media.makcyun.top/win/20190701/ibj1RxGkt67g.png?imageslim
